@@ -28,6 +28,19 @@ Authorized to work in Germany. No employer sponsorship required.
 | [Authentication & User Management Service](https://github.com/Shubchynskyi/Authentication-service) | JWT authentication, Google OAuth2 and role-based access control | Java, Spring Boot, Spring Security, PostgreSQL, Testcontainers |
 | [Garda Agent Orchestrator](https://github.com/Garda-Studio/garda-agent-orchestrator) | Open-source CLI for controlled AI coding-agent workflows: task lifecycle, mandatory quality gates, reviews and an auditable task history | Node.js, TypeScript |
 
+## Open-source contributions
+
+**Merged**
+
+- [openrewrite/rewrite#8946](https://github.com/openrewrite/rewrite/pull/8946): fix npm auth lookup for registry URLs with explicit default ports
+- [openrewrite/rewrite#8960](https://github.com/openrewrite/rewrite/pull/8960): fix Groovy multi-index subscript round trips
+
+**In review**
+
+- [spring-projects/spring-data-relational#2412](https://github.com/spring-projects/spring-data-relational/pull/2412): return empty results from JDBC fluent Query by Example
+- [wiremock/wiremock#3609](https://github.com/wiremock/wiremock/pull/3609): fix default HTTPS keystore resource collision
+- [modelcontextprotocol/java-sdk#1162](https://github.com/modelcontextprotocol/java-sdk/pull/1162): reject invalid JSON-RPC response versions
+
 ## Stack
 
 - **Backend:** Java, Spring Boot, Spring Security, REST APIs, Spring Data JPA, Hibernate
