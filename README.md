@@ -34,6 +34,7 @@ Authorized to work in Germany. No employer sponsorship required.
 
 - [openrewrite/rewrite#8946](https://github.com/openrewrite/rewrite/pull/8946): fix npm auth lookup for registry URLs with explicit default ports
 - [openrewrite/rewrite#8960](https://github.com/openrewrite/rewrite/pull/8960): fix Groovy multi-index subscript round trips
+- [openrewrite/rewrite#9235](https://github.com/openrewrite/rewrite/pull/9235): cache unsupported Maven repository normalization results
 
 **In review**
 
