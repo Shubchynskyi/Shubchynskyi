@@ -32,6 +32,8 @@ Authorized to work in Germany. No employer sponsorship required.
 
 **Merged**
 
+- [quarkusio/quarkus#58189](https://github.com/quarkusio/quarkus/pull/58189): preserve nested braces in Javadoc-to-AsciiDoc conversion
+- [springdoc/springdoc-openapi#3396](https://github.com/springdoc/springdoc-openapi/pull/3396): fix JsonSchema cloning after early Swagger schema resolution
 - [openrewrite/rewrite#8946](https://github.com/openrewrite/rewrite/pull/8946): fix npm auth lookup for registry URLs with explicit default ports
 - [openrewrite/rewrite#8960](https://github.com/openrewrite/rewrite/pull/8960): fix Groovy multi-index subscript round trips
 - [openrewrite/rewrite#9235](https://github.com/openrewrite/rewrite/pull/9235): cache unsupported Maven repository normalization results
